@@ -6,8 +6,8 @@ body ,html {
 }
 
 body { 
-    background: url(/img/bg01.jpg) no-repeat center center fixed;
-    background-size: cover;
+    background: url(/img/bg01.jpg) center center fixed / cover no-repeat;
+   
 }
 
 #vanta { 
